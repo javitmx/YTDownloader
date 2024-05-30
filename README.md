@@ -42,10 +42,24 @@
    Diseño limpio y moderno con botones y etiquetas estilizadas.  
 </p>
 <hr>
-<h1>
-   Requisitos
-</h1>
+   <h1>
+      Requisitos
+   </h1>
+<p>
+   python 3.6 o superior 
+   pyQt5
+   Pytube
+</p>
+   <h1>
+      Instalacion
+   </h1>
+<p>
+   1.Clonar el repositorio:
+   git <b>clone</b> https://github.com/tu-usuario/youtube-downloader.git cd 
+   youtube-downlader
+</p>
 <hr>
+
 
 
 
