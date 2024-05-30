@@ -2,22 +2,12 @@
 <b>Youtube Downloader</b>
 </h1>
 
-<p> 
- <b> Descarga de videos de YouTube:</b> Permite descargar videos de YouTube proporcionando la URL del video.
-Selección de calidad: Los usuarios pueden elegir la calidad del video que desean descargar (Máxima, 720p, 480p, 360p, 144p).  
-</p>
-
-
 <h1> Caracteristicas</h1>
-<p>
-       <h3>
-          <strong>
-             Descarga de Videos de Youtube: Permite descargar Videos de Youtube proporcionando la URL del video.
-          </strong>
-      </h3>
-</p>
+<p>    
+   <h3> <b> Descarga de Videos de Youtube: </b> </h3>Permite descargar Videos de Youtube proporcionando la URL del video.  
+</p> 
 
-   <strong>
+<p>
       <h4>
          Seleccion de calidad: Los usuarios puede elegir la calidad del video que desean descarga (Maxima,720p,480p,360p,144p).  
       </h4>
