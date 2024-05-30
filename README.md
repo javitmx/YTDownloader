@@ -2,15 +2,16 @@
 <b>Youtube Downloader</b>
 </h1>
 
-<p>
+<p> <b>
    YouTube Downloader es una aplicación de escritorio sencilla y fácil de usar, desarrollada en Python, que permite descargar videos de YouTube en diferentes calidades directamente a tu computadora. La aplicación cuenta con una interfaz gráfica de usuario (GUI) amigable, diseñada con PyQt5, para facilitar la interacción con el usuario.
 </p>
+</b>
 
 <h1> Caracteristicas</h1>
 <p>
    <strong>
       <h4>
-         Descarga de Videos de Youtube: Permite descargar Videos ed Youtube proporcionando la URL del video.  
+         Descarga de Videos de Youtube: Permite descargar Videos ed Youtube             proporcionando la URL del video.  
       </h4>
    </strong>
 </p>
@@ -24,16 +25,13 @@
 
    <strong>
       <h4>
-         Ruta de guardado personalizada: Los usuarios pueden seleccionar la carpeta donde desean guardar el video descargado.  
+         Ruta de guardado personalizada: Los usuarios pueden seleccionar la            carpeta donde desean guardar el video descargado.  
       </h4>
    </strong>
 </p>
-
-   <b>
-      <h4>
-         Cambio de nombre del archivo: Permite descargar Videos ed Youtube proporcionando la URL del video.  
-      </h4>
-   </b>
+   <h4>
+      Cambio de nombre del archivo: Permite descargar Videos ed Youtube             proporcionando la URL del video.  
+   </h4>
 </p>
 
    <strong>
