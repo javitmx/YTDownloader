@@ -4,9 +4,11 @@
 <hr>
 <h2> Caracteristicas</h2> 
    <h3>
-      <b>
-         Descarga de Videos de Youtube:
-      </b>
+         <li>
+            <strong>
+               Descarga de Videos de Youtube:
+            </strong>
+         </li>
    </h3>
 <p>
    Permite descargar Videos de Youtube proporcionando la URL del video.  
@@ -50,14 +52,18 @@
    pyQt5
    Pytube
 </p>
+<hr>
    <h1>
       Instalacion
    </h1>
 <p>
    1.Clonar el repositorio:
-   git <b>clone</b> https://github.com/tu-usuario/youtube-downloader.git cd 
+   git <b>clone</b> https://github.com/tu-usuario/youtube-downloader.git         <b>cd</b> 
    youtube-downlader
 </p>
+   <p>
+      2.Interaccion con la interfaz:
+   </p>
 <hr>
 
 
