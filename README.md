@@ -2,10 +2,17 @@
 <b>Youtube Downloader</b>
 </h1>
 
-<h1> Caracteristicas</h1>
-<p>    
-   <h3> <b> Descarga de Videos de Youtube: </b> </h3>Permite descargar Videos de Youtube proporcionando la URL del video.  
-</p> 
+<h1> Caracteristicas</h1> 
+
+   <h3>
+      <b>
+         Descarga de Videos de Youtube:
+      </b>
+   </h3>
+   <p>
+         Descarga de Videos de Youtube:Permite descargar Videos de Youtube proporcionando la URL del video.  
+   </p>
+   
 
 <p>
       <h4>
