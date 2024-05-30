@@ -29,11 +29,11 @@
    </strong>
 </p>
 
-   <strong>
+   <b>
       <h4>
          Cambio de nombre del archivo: Permite descargar Videos ed Youtube proporcionando la URL del video.  
       </h4>
-   </strong>
+   </b>
 </p>
 
    <strong>
